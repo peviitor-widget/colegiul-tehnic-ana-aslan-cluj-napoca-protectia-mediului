@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "fonduri UE",
+      "raportare"
+    ],
+    "matchPercentage": 92,
+    "reason": "Accesarea fondurilor structurale și de coeziune cu sub 3 ani experiență corespunde direct competențelor de implementare POIM, gestiunea contractului și raportare către finanțatori."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "location": [
+      "BRASOV",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "monitorizare indicatori",
+      "raportare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Auditorul de mediu activează direct în domeniul protecției mediului, iar cerința de sub 3 ani experiență se încadrează la nivel entry-level."
+  }
+]
