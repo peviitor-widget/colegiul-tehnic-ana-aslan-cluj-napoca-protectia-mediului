@@ -1,0 +1,59 @@
+# Scoate din registrul organizatiei facultatile al caror repository a fost sters.
+# Se ruleaza doar manual: GitHub nu are un trigger pentru stergerea unui repository.
+name: 3. Curata registrul de repository-uri sterse
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Doar afiseaza ce ar fi eliminat, fara sa modifice registrul'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  curata:
+    runs-on: ubuntu-latest
+    env:
+      ORG: ${{ github.repository_owner }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Verifica GitHub App-ul
+        env:
+          APP_ID: ${{ vars.WIDGET_APP_ID }}
+        run: |
+          if [ -z "$APP_ID" ]; then
+            echo "::error::Lipsesc WIDGET_APP_ID / WIDGET_APP_PRIVATE_KEY la nivel de organizatie."
+            exit 1
+          fi
+
+      - name: Genereaza token de la GitHub App
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.WIDGET_APP_ID }}
+          private-key: ${{ secrets.WIDGET_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+
+      - name: Foloseste tokenul pentru gh
+        run: echo "GH_TOKEN=${{ steps.app-token.outputs.token }}" >> "$GITHUB_ENV"
+
+      - name: Curata registrul
+        env:
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN" = "true" ]; then
+            node scripts/prune_registry.mjs --registry "$ORG/facultati-jobs-widget" --dry-run
+          else
+            node scripts/prune_registry.mjs --registry "$ORG/facultati-jobs-widget"
+          fi
