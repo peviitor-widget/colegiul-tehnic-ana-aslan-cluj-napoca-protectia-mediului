@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
-    "location": [
-      "BUCURESTI SECTORUL 1",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "fonduri structurale",
-      "cofinanțare FEDR"
-    ],
-    "matchPercentage": 88,
-    "reason": "Expert în accesarea fondurilor structurale și de coeziune, cu experiență sub 3 ani: domeniu și nivel ambele potrivite."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:13:18Z",
-    "status": "tested",
-    "tags": [
-      "implementare proiecte",
-      "raportare finanțatori"
-    ],
-    "matchPercentage": 86,
-    "reason": "Consultant fonduri europene fără cerințe senior: sarcinile folosesc direct implementarea proiectelor și raportarea către finanțatori."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
     "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
     "company": "FORUM PROIECT INVEST SRL",
@@ -47,29 +11,83 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "implementare proiecte",
-      "fonduri POIM"
+      "fonduri europene",
+      "POIM"
     ],
-    "matchPercentage": 85,
-    "reason": "Poziția acceptă explicit nivelul junior în consultanță fonduri europene, domeniu identic cu competențele de implementare proiecte."
+    "matchPercentage": 88,
+    "reason": "Varianta Junior corespunde direct competențelor de implementare a proiectelor POIM și cofinanțare FEDR."
   },
   {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
     "location": [
-      "Constanta",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:30:51Z",
+    "date": "2026-11-17T15:28:21Z",
     "status": "tested",
     "tags": [
-      "implementare proiecte",
-      "fonduri POIM"
+      "achiziții publice",
+      "achiziții echipamente"
     ],
-    "matchPercentage": 82,
-    "reason": "Consultanță în fonduri europene: domeniu direct, fără indicator de nivel senior în descriere."
+    "matchPercentage": 88,
+    "reason": "Rol entry-level explicit în achiziții publice, cu lucr în SEAP/SICAP și documentație de atribuire, folosind direct competența de achiziție a echipamentelor."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:53:17Z",
+    "status": "tested",
+    "tags": [
+      "criza sanitara",
+      "risc infectie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție de specialist SSM, situații de urgență și mediu, cu domeniu direct relevant și nivel entry/mid."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "location": [
+      "BRASOV",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "protectia mediului",
+      "monitorizare indicatori"
+    ],
+    "matchPercentage": 85,
+    "reason": "Auditor de mediu cu studii universitare și sub 3 ani experiență, domeniu direct de protecție a mediului și niveljunior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444178",
+    "title": "Inginer in gestionarea integrata a deseurilor municipale/industriale",
+    "company": "METROREX SA",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "proiecte POIM",
+      "monitorizare indicatori"
+    ],
+    "matchPercentage": 85,
+    "reason": "Ingineria gestionării integrate a deșeurilor municipale și industriale este domeniu direct de protecție a mediului, iar nivelul de sub 3 ani experiență este potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
@@ -83,46 +101,80 @@
     "date": "2026-11-16T12:56:12Z",
     "status": "verified",
     "tags": [
-      "monitorizare indicatori",
-      "evaluare dotări"
+      "monitorizare indicatori"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist în managementul deșeurilor la o firmă de salubritate: domeniu direct de protecție a mediului, studii superioare și sub 3 ani experiență."
+    "matchPercentage": 85,
+    "reason": "Specialist în managementul deșeurilor cu studii superioare și sub 3 ani experiență, domeniu direct de protecție a mediului."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA DARABANI",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
     "location": [
-      "DARABANI",
+      "BUCURESTI SECTORUL 1",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "verified",
     "tags": [
-      "coordonare instituții",
-      "comunicare instituțională"
+      "fonduri europene",
+      "POIM"
     ],
-    "matchPercentage": 80,
-    "reason": "Consilier în administrația publică locală, domeniu direct relevant și fără experiență."
+    "matchPercentage": 85,
+    "reason": "Accesarea fondurilor structurale și de coeziune cu sub 3 ani experiență e aliniată competențelor de proiecte cu finanțare europeană."
   },
   {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
+    "title": "Working Student – Technical Project Administration",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Resita",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:05:29Z",
+    "date": "2026-11-20T15:11:43.889Z",
+    "status": "scraped",
+    "tags": [
+      "buget proiect",
+      "planificare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Urmărirea bugetului, planurilor, livrabilelor și dependențelor la nivel de working student folosește direct competențele de planificare și management de proiect."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18140/specialist-managementul-energiei",
+    "title": "Specialist Managementul Energiei",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T07:39:11Z",
     "status": "tested",
     "tags": [
-      "accesare fonduri",
-      "gestionare contract"
+      "monitorizare indicatori"
     ],
-    "matchPercentage": 74,
-    "reason": "Accesarea fondurilor europene corespunde competențelor, iar titlul de expert indică un nivel mid, nu senior."
+    "matchPercentage": 62,
+    "reason": "Managementul energiei e domeniu adiacent protecției mediului, iar nivelul de specialist e accesibil, deși competențele se folosesc doar parțial."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
+    "title": "Specialist Achizitii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-20T15:03:33Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții echipamente",
+      "gestionare contracte"
+    ],
+    "matchPercentage": 62,
+    "reason": "Sarcinile de achiziții tehnice (cereri de ofertă, evaluare, contracte) folosesc parțial competența de achiziție de echipamente, deși este un domeniu privat industrial, nu achiziții publice de echipamente de protecție."
   }
 ]
