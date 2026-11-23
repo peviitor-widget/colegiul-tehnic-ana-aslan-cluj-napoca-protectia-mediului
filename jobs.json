@@ -1,93 +1,39 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
+    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
+    "title": "Specialist achizitii publice",
+    "company": "DOCTORUL DE DINTI SRL",
     "location": [
-      "Ramnicu Valcea",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:53:17Z",
+    "date": "2026-11-17T15:28:21Z",
     "status": "tested",
     "tags": [
-      "criză sanitară",
-      "monitorizare indicatori"
+      "achiziții publice",
+      "echipamente protecție"
+    ],
+    "matchPercentage": 92,
+    "reason": "Este un rol entry-level exact în achiziții publice, cu SEAP/SICAP, documentație de atribuire și evaluare de oferte, folosind direct competențele mele."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
+    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
+    "company": "FORUM PROIECT INVEST SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:28:12Z",
+    "status": "tested",
+    "tags": [
+      "proiecte POIM",
+      "buget proiect"
     ],
     "matchPercentage": 90,
-    "reason": "Specialist SSM, situații de urgență și mediu combină direct gestionarea crizelor cu protecția mediului, la nivel specialist/mid."
-  },
-  {
-    "url": "https://makitajobs.ro/responsabil-mediu/",
-    "title": "Responsabil Mediu",
-    "company": "MAKITA ROMANIA SRL",
-    "location": [
-      "Ilfov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:08:54Z",
-    "status": "tested",
-    "tags": [
-      "raportare",
-      "monitorizare indicatori"
-    ],
-    "matchPercentage": 88,
-    "reason": "Responsabil de mediu la Makita vizează direct protecția mediului, raportări către Agenția de Protecție a Mediului și monitorizarea indicatorilor, la nivel mid."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-tehnolog-in-protectia-mediului/5543",
-    "title": "Inginer tehnolog în protecția mediului",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:04:39Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare indicatori",
-      "raportare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginerie tehnologică în protecția mediului, domeniu direct la nivel entry/mid, cu monitorizarea indicatorilor și raportare."
-  },
-  {
-    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
-    "title": "Tehnician analize de mediu",
-    "company": "LAJEDO SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:21:40Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare indicatori",
-      "raportare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tehnician în analize de mediu este rol entry-level direct în protecția mediului, bazat pe monitorizarea indicatorilor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
-    "title": "AUDITOR DE MEDIU",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-    "location": [
-      "BRASOV",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "raportare",
-      "monitorizare indicatori"
-    ],
-    "matchPercentage": 85,
-    "reason": "Auditor de mediu cu studii superioare și sub 3 ani experiență, domeniu direct și nivel junior/mid, cu raportare și monitorizare."
+    "reason": "Poziție cu variantă explicit Junior de consultant fonduri europene, în domeniu direct relevant și la nivel potrivit."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3444178",
@@ -101,28 +47,11 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "implementare POIM"
-    ],
-    "matchPercentage": 85,
-    "reason": "Gestionarea integrată a deșeurilor este domeniul direct al protecției mediului, iar competența de implementare POIM se aplică proiectelor de mediu din instituții publice, nivelul sub 3 ani fiind potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
-    "location": [
-      "SLOBOZIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
-    "tags": [
-      "protecția mediului",
+      "implementare proiecte",
       "monitorizare indicatori"
     ],
     "matchPercentage": 85,
-    "reason": "Managementul deșeurilor este direct în domeniul protecția mediului, iar nivelul cere mai puțin de 3 ani experiență."
+    "reason": "Inginer în gestionarea integrată a deșeurilor, domeniu direct de protecția mediului, la nivel entry-level cu sub 3 ani experiență."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -140,115 +69,79 @@
       "contract finanțare"
     ],
     "matchPercentage": 85,
-    "reason": "Consultanța în fonduri europene folosește direct competențele de implementare POIM, contract și raportare."
+    "reason": "Rol de consultant fonduri europene la nivel nemarcat senior, cu sarcini ce folosesc direct implementarea proiectelor POIM și gestionarea contractelor de finanțare."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
-    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
-    "company": "FORUM PROIECT INVEST SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:28:12Z",
-    "status": "tested",
-    "tags": [
-      "proiecte POIM",
-      "management buget"
-    ],
-    "matchPercentage": 85,
-    "reason": "Varianta Junior a postului de consultant fonduri europene se potrivește cu implementarea și managementul bugetului de proiect."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
-    "title": "Specialist achizitii publice",
-    "company": "DOCTORUL DE DINTI SRL",
+    "url": "https://www.teamland.ro/apply.php?id=1199",
+    "title": "Coordonator achizitii medicale",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:28:21Z",
+    "date": "2026-11-17T13:41:58Z",
     "status": "tested",
     "tags": [
-      "achiziții publice",
-      "echipamente protecție"
+      "echipamente protecție",
+      "evaluare dotări"
     ],
-    "matchPercentage": 85,
-    "reason": "Poziția entry-level de achiziții publice cu operare SEAP/SICAP și documentație de atribuire folosește direct competențele de achiziție a echipamentelor de protecție."
+    "matchPercentage": 82,
+    "reason": "Coordonarea achizițiilor medicale folosește direct competența de achiziție a echipamentelor de protecție medicală, iar coordonarea este compatibilă cu profilul meu."
   },
   {
-    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
-    "title": "Analyst Mediu/Calitate",
+    "url": "https://makitajobs.ro/responsabil-mediu/",
+    "title": "Responsabil Mediu",
+    "company": "MAKITA ROMANIA SRL",
+    "location": [
+      "Ilfov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:08:54Z",
+    "status": "tested",
+    "tags": [
+      "raportare",
+      "monitorizare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Responsabil de mediu cu raportari catre APM, gestionarea deseurilor si monitorizarea indicatorilor de mediu, potrivire directa de domeniu."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-tehnolog-in-protectia-mediului/5543",
+    "title": "Inginer tehnolog în protecția mediului",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:33:26Z",
+    "date": "2026-11-17T10:04:39Z",
     "status": "tested",
     "tags": [
-      "monitorizare indicatori",
+      "monitorizare",
       "raportare"
     ],
-    "matchPercentage": 82,
-    "reason": "Analyst Mediu/Calitate la nivel junior folosește monitorizarea indicatorilor și raportarea în domeniul mediului."
+    "matchPercentage": 75,
+    "reason": "Post de inginer in protectia mediului, domeniu direct relevant, fara cerinte de senioritate specificate."
   },
   {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
-      "Bucuresti",
+      "BRASOV",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:52:40Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "monitorizare indicatori",
+      "monitorizare",
       "raportare"
     ],
-    "matchPercentage": 80,
-    "reason": "Institutul de cercetare în protecția mediului include gradul ACS de asistent cercetător, nivel entry-level, potrivit competențelor de monitorizare și raportare."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:00:16Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare indicatori",
-      "raportare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziție de responsabil de mediu în domeniul protecției mediului, nivel mid, compatibil cu monitorizarea indicatorilor și raportarea."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
-    "title": "RESPONSABIL DE MEDIU",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:55:03Z",
-    "status": "tested",
-    "tags": [
-      "monitorizare indicatori",
-      "raportare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Poziție de responsabil de mediu în domeniul protecției mediului, nivel mid, compatibil cu monitorizarea indicatorilor și raportarea."
+    "matchPercentage": 75,
+    "reason": "Auditor de mediu cu studii superioare si sub 3 ani experienta, domeniu si nivel potrivite."
   },
   {
     "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
@@ -262,29 +155,11 @@
     "date": "2026-11-17T10:30:51Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
+      "proiecte POIM",
       "raportare finanțatori"
     ],
-    "matchPercentage": 80,
-    "reason": "Consultanța în fonduri europene corespunde competențelor de proiect și nu impune un nivel senior."
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:05:29Z",
-    "status": "tested",
-    "tags": [
-      "fonduri europene",
-      "contract finanțare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Accesarea fondurilor europene folosește competențele de gestionare a contractului de finanțare și cofinanțare ERDF."
+    "matchPercentage": 75,
+    "reason": "Consultanța în fonduri europene corespunde competențelor de implementare a proiectelor finanțate european, deși descrierea nu precizează nivelul."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
@@ -298,28 +173,100 @@
     "date": "2026-11-17T09:52:40Z",
     "status": "tested",
     "tags": [
-      "monitorizare indicatori",
-      "raportare"
+      "monitorizare",
+      "protectia mediului"
     ],
-    "matchPercentage": 78,
-    "reason": "Monitorizarea Dunării la un institut de mediu folosește parțial competențele de monitorizare și raportare, iar funcția de responsabil de activitate nu e un post de conducere."
+    "matchPercentage": 72,
+    "reason": "Monitorizare de mediu (Dunare) la institut de profil, activitate tehnica relevanta pentru un absolvent."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/KHPFmUUU0M",
-    "title": "Specialist Achizitii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Oradea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-21T14:24:55Z",
-    "status": "scraped",
+    "date": "2026-11-17T15:00:16Z",
+    "status": "tested",
     "tags": [
-      "achiziție echipamente",
-      "evaluare dotări"
+      "protectia mediului",
+      "raportare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Titlul indica rol de responsabil de mediu, domeniu relevant, dar descrierea lipseste pentru confirmarea nivelului."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:55:03Z",
+    "status": "tested",
+    "tags": [
+      "protectia mediului",
+      "raportare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Titlul indica rol de responsabil de mediu, domeniu relevant, dar descrierea lipseste pentru confirmarea nivelului."
+  },
+  {
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:33:26Z",
+    "status": "tested",
+    "tags": [
+      "monitorizare",
+      "raportare"
     ],
     "matchPercentage": 65,
-    "reason": "Achizițiile de echipamente tehnice folosesc parțial competența de achiziție de echipamente, deși este vorba de procurement privat în infrastructură, nu public și medical."
+    "reason": "Analist mediu/calitate, domeniu partial relevant si nivel accesibil unui absolvent."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
+    "location": [
+      "Ramnicu Valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:53:17Z",
+    "status": "tested",
+    "tags": [
+      "situatii urgenta",
+      "protectia mediului"
+    ],
+    "matchPercentage": 63,
+    "reason": "Specialist SSM/SU si mediu, combina situatii de urgenta cu protectia mediului, potrivire partiala de domeniu."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
+    "title": "Tehnician analize de mediu",
+    "company": "LAJEDO SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:21:40Z",
+    "status": "tested",
+    "tags": [
+      "protectia mediului",
+      "monitorizare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Tehnician analize de mediu, domeniu de mediu potrivit pentru nivel entry, dar sarcinile de laborator nu apar explicit in competente."
   }
 ]
