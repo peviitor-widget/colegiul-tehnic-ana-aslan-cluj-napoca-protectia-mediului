@@ -1,21 +1,39 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
-    "title": "AUDITOR DE MEDIU",
-    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
     "location": [
-      "BRASOV",
+      "Ramnicu Valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T09:53:17Z",
     "status": "tested",
     "tags": [
-      "monitorizare indicatori",
-      "raportare institutii"
+      "criză sanitară",
+      "risc infecție"
     ],
-    "matchPercentage": 88,
-    "reason": "Auditorul de mediu verifica conformarea environmental, cere mai putin de 3 ani experienta si utilizeaza monitorizarea indicatorilor si raportarea catre institutii."
+    "matchPercentage": 85,
+    "reason": "Specialist SSM, situații de urgență și mediu folosește direct gestionarea crizei sanitare și a riscului de infecție."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:13:18Z",
+    "status": "tested",
+    "tags": [
+      "fonduri europene",
+      "raportare finanțatori"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rolul folosește direct implementarea proiectelor POIM, raportarea și gestionarea contractelor de finanțare."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
@@ -29,11 +47,100 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "proiecte POIM",
-      "raportare"
+      "fonduri europene",
+      "proiecte POIM"
     ],
-    "matchPercentage": 88,
-    "reason": "Rolul de consultant fonduri europene folosește direct implementarea proiectelor POIM, gestionarea contractului de finanțare și raportarea, iar varianta Junior se potrivește nivelului."
+    "matchPercentage": 85,
+    "reason": "Varianta Junior este explicit acceptată, iar sarcinile folosesc competențele de proiecte cu finanțare europeană."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "fonduri europene",
+      "cofinanțare FEDR"
+    ],
+    "matchPercentage": 85,
+    "reason": "Expertiza în fonduri structurale cu sub 3 ani experiență folosește direct competențele de proiecte POIM și FEDR."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
+    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
+    "company": "VIVANI SALUBRITATE SA",
+    "location": [
+      "SLOBOZIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "protecția mediului"
+    ],
+    "matchPercentage": 82,
+    "reason": "Managementul deșeurilor este direct în domeniul protecția mediului, iar cerința de sub 3 ani experiență este potrivită."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:30:51Z",
+    "status": "tested",
+    "tags": [
+      "fonduri europene",
+      "proiecte POIM"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultanța în fonduri europene corespunde competențelor de implementare proiecte POIM și cofinanțare FEDR."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:05:29Z",
+    "status": "tested",
+    "tags": [
+      "fonduri europene",
+      "contract finanțare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Accesarea fondurilor europene se potrivește competențelor de contract de finanțare și cofinanțare FEDR."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA DARABANI",
+    "location": [
+      "DARABANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "coordonare instituțională",
+      "evaluare dotări"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consilier în administrația publică la o primărie, domeniu direct relevant și fără experiență anterioară cerută."
   },
   {
     "url": "https://makitajobs.ro/responsabil-mediu/",
@@ -48,46 +155,46 @@
     "status": "tested",
     "tags": [
       "monitorizare indicatori",
-      "raportare institutii"
+      "raportare"
     ],
-    "matchPercentage": 85,
-    "reason": "Rolul de specialist monitorizeaza conformarea la autorizatii, raporteaza catre APM si gestioneaza indicatori de mediu si deseuri, folosind direct competentele de raportare si monitorizare."
+    "matchPercentage": 78,
+    "reason": "Responsabil de mediu cu monitorizarea autorizațiilor, raportări către APM și indicatori, la nivel specialist, fără cerințe senior."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
-    "title": "Specialist SSM, SU si Mediu",
-    "company": "MINET SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3341884",
+    "title": "AUDITOR DE MEDIU",
+    "company": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
     "location": [
-      "Ramnicu Valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:53:17Z",
-    "status": "tested",
-    "tags": [
-      "criza sanitara",
-      "risc infectie"
-    ],
-    "matchPercentage": 85,
-    "reason": "Pozitia de specialist SSM, SU si Mediu combina protectia mediului cu situatiile de urgenta si sanatatea la nivel junior/mid, potrivindu-se competentelor de criza sanitara si risc de infectie."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
-    "location": [
-      "BUCURESTI SECTORUL 1",
+      "BRASOV",
       "Romania"
     ],
     "salary": null,
     "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
+    "status": "tested",
     "tags": [
-      "proiecte POIM",
-      "cofinanțare FEDR"
+      "monitorizare indicatori",
+      "raportare"
     ],
-    "matchPercentage": 85,
-    "reason": "Accesarea fondurilor structurale și de coeziune folosește competențele de proiecte cu finanțare europeană, iar experiența sub 3 ani acceptă un profil junior/mid."
+    "matchPercentage": 75,
+    "reason": "Auditor de mediu cu studii superioare și sub 3 ani experiență, domeniu direct și nivel junior."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-tehnolog-in-protectia-mediului/5543",
+    "title": "Inginer tehnolog în protecția mediului",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:04:39Z",
+    "status": "tested",
+    "tags": [
+      "monitorizare indicatori",
+      "raportare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Poziție de inginer tehnolog în protecția mediului, nivel entry-level, cu relevanță parțială pe monitorizarea indicatorilor."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/specialist-achizitii-publice",
@@ -102,118 +209,81 @@
     "status": "tested",
     "tags": [
       "achiziții publice",
-      "evaluare oferte"
+      "evaluarea dotărilor"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol entry-level de achiziții publice cu operare SEAP/SICAP, pregătirea documentației și evaluarea ofertelor, exact în domeniul vizat."
+    "matchPercentage": 72,
+    "reason": "Rol entry-level în achiziții publice cu SEAP/SICAP, relevant pentru competențele de achiziție și documentație."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6650",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "SLOBOZIA",
+      "Oradea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
+    "date": "2026-11-17T15:00:16Z",
+    "status": "tested",
     "tags": [
       "monitorizare indicatori",
       "raportare"
     ],
-    "matchPercentage": 80,
-    "reason": "Managementul deșeurilor este direct în domeniul protecția mediului, iar cerința de sub 3 ani experiență corespunde unui profil junior/mid."
+    "matchPercentage": 70,
+    "reason": "Titlul de responsabil de mediu indică un rol de specialitate în protecția mediului, potrivit nivelului junior/mid, deși descrierea e sumară."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA DARABANI",
+    "url": "https://multijobs.ro/job/responsabil-de-mediu/6894",
+    "title": "RESPONSABIL DE MEDIU",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "DARABANI",
+      "Oradea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "proiecte POIM",
-      "coordonare parteneriat"
-    ],
-    "matchPercentage": 72,
-    "reason": "Consilier în administrația publică fără experiență, domeniu relevant și nivel entry-level, chiar dacă sarcinile nu sunt detaliate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3317757",
-    "title": "ASISTENT MEDICAL RADIOLOGIE",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
-    "location": [
-      "PLOIESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T11:55:03Z",
     "status": "tested",
     "tags": [
-      "prevenire infecții",
-      "risc infecție"
+      "monitorizare indicatori",
+      "raportare"
     ],
     "matchPercentage": 70,
-    "reason": "Postul include explicit radioprotecție, igienă și prevenirea infecțiilor, iar nivelul fără experiență este potrivit."
+    "reason": "Titlul de responsabil de mediu indică un rol de specialitate în protecția mediului, potrivit nivelului junior/mid, deși descrierea e sumară."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3311714",
-    "title": "INFIRMIER/INFIRMIERA",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "url": "https://multijobs.ro/job/analyst-mediu-calitate/5126",
+    "title": "Analyst Mediu/Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "PLOIESTI",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T10:33:26Z",
     "status": "tested",
     "tags": [
-      "prevenire infecții",
-      "risc infecție"
-    ],
-    "matchPercentage": 70,
-    "reason": "Dezinfectarea, respectarea circuitelor și prevenirea infecțiilor folosesc direct competențe de sănătate publică, iar nivelul fără experiență e potrivit."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
-    "title": "Working Student – Technical Project Administration",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
-    "status": "scraped",
-    "tags": [
-      "buget proiect",
-      "planificare"
+      "monitorizare indicatori",
+      "raportare"
     ],
     "matchPercentage": 68,
-    "reason": "Administrarea tehnică de proiect implică urmărirea bugetului, a planurilor și a livrabilelor, competențe transferabile direct de la implementarea proiectelor POIM."
+    "reason": "Analyst mediu/calitate la nivel entry, cu sarcini de monitorizare și raportare în domeniul protecției mediului."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3311789",
-    "title": "ASISTENT MANAGER",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
+    "title": "Tehnician analize de mediu",
+    "company": "LAJEDO SRL",
     "location": [
-      "PLOIESTI",
+      "Ploiesti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T11:21:40Z",
     "status": "tested",
     "tags": [
-      "raportare instituțională",
-      "coordonare parteneriat"
+      "monitorizare indicatori"
     ],
-    "matchPercentage": 66,
-    "reason": "Raportarea, coordonarea cu partenerii și autoritățile și urmărirea termenelor folosesc competențe de coordonare instituțională, la nivel entry-level."
+    "matchPercentage": 65,
+    "reason": "Tehnician în analize de mediu, domeniu conexe, dar sarcini de laborator care folosesc doar parțial monitorizarea indicatorilor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
@@ -227,10 +297,10 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "evaluare dotări",
-      "coordonare parteneriat"
+      "coordonare instituțională",
+      "raportare"
     ],
-    "matchPercentage": 66,
-    "reason": "Referent de specialitate în administrația publică, domeniu listat ca relevant, cu sub 3 ani experiență."
+    "matchPercentage": 65,
+    "reason": "Rol de referent în administrația publică, domeniu parțial relevant, cu sub 3 ani experiență, deși sarcinile descrise sunt doar de birou."
   }
 ]
